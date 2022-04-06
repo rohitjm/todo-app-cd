@@ -17,4 +17,4 @@ spec:
       containers:
         - name: todo-app
           imagePullPolicy: IfNotPresent
-          image: rohitjm/todo-app:efb6c13c5b93ebae9bf4f9273a9deff9d1ea3e02
+          image: rohitjm/todo-app:55d42804459e90214cf74d51abcd275a6702fc37
